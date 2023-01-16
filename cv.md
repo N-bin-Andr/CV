@@ -1,11 +1,9 @@
 # Nabebin Andrew
-![Nabebin Andrew](https://github.com/N-bin-Andr/CV/tree/gh-pages/img/N200r.png 'Nabebin Andrew')
+![Nabebin Andrew](https://github.com/N-bin-Andr/CV/blob/gh-pages/img/N200r.png 'Nabebin Andrew')
 
 ## Location:
 
-Minsk, Belarus.
-
-## Contacts
+Minsk, Belar
 - E-mail: n.bin.andr@gmail.com
 - Twitter: @Nab_Andrey
 - Facebook: Nabebin Andrew
@@ -13,7 +11,7 @@ Minsk, Belarus.
 - Discord: Andrei Nabebin#2320
 
 ## In brief about myself
-
+ßß
 Despite the humanitarian profile of my main education, by nature I more prone to the exact sciences and technical disciplines. From a certain stage in my life, writing code has become a favorite hobby for me that I spend almost all my free time. I love to learn and experience new things. I do my best to turn my favorite hobby into my main profession.
 
 ## Goals:
