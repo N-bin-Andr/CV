@@ -130,7 +130,7 @@ Project: "Thyroid telepathology and telemedicine".
 
 ### 2017
 
-Oline JAVA courses (Интуит).
+Online JAVA courses (https://intuit.ru).
 
 ### 2005 - 2021
 
