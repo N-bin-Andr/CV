@@ -1,2 +1,1 @@
-# CV
-my curriculum vitae
+ttps://GITHUB-USERNAME.github.io/CV/cv
