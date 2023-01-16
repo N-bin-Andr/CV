@@ -1,5 +1,5 @@
 # Nabebin Andrew
-![Nabebin Andrew](/img/N200r.png 'Nabebin Andrew')
+![Nabebin Andrew](img/N200r.png 'Nabebin Andrew')
 
 ## Location:
 
