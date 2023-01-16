@@ -1,5 +1,5 @@
 # Nabebin Andrew
-![Nabebin](https://github.com/N-bin-Andr/CV/tree/gh-pages/img/N200r.png 'Nabebin Andrew')
+ ![Nabebin](https://github.com/N-bin-Andr/CV/tree/gh-pages/img/N200r.png 'Nabebin Andrew')
 
 ## Location:
 
