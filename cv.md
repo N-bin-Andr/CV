@@ -3,7 +3,7 @@
 
 ## Location:
 
-Minsk, Belar
+Minsk, Belarus.
 - E-mail: n.bin.andr@gmail.com
 - Twitter: @Nab_Andrey
 - Facebook: Nabebin Andrew
@@ -11,26 +11,25 @@ Minsk, Belar
 - Discord: Andrei Nabebin#2320
 
 ## In brief about myself
-ßß
 Despite the humanitarian profile of my main education, by nature I more prone to the exact sciences and technical disciplines. From a certain stage in my life, writing code has become a favorite hobby for me that I spend almost all my free time. I love to learn and experience new things. I do my best to turn my favorite hobby into my main profession.
 
 ## Goals:
 
-Junior as the first step in Frontend
+Junior as the first step in Frontend.
 
 ## Skills:
 
-- HTML, CSS, JS (studying)
-- Bootstrap (studying)
-- Git, GitHub (studying)
-- VBA VB6
-- JAVA, FX (the basics)
-- Linux, Linux bash (the basics)
-- VC code, Sublime text, JetBrains IntelliJ IDEA
-- Figma
-- Photoshop, Gimp (the basics)
-- Blind 10-finger typing method (ru, en).
-- Microsoft Office: Word, Excel, Outlook, Access (with VBA programming);
+- HTML, CSS, JS (studying);
+- Bootstrap (studying);
+- Git, GitHub (studying);
+- VBA VB6;
+- JAVA, FX (the basics);
+- Linux, Linux bash (the basics);
+- VC code, Sublime text, JetBrains IntelliJ IDEA;
+- Figma;
+- Photoshop, Gimp (the basics);
+- Blind 10-finger typing method (ru, en);
+- Microsoft Office: Word, Excel, Outlook, Access (with VBA programming).
 
 #### JS code example:
 ```
@@ -108,8 +107,8 @@ End Function
 Minsk City Clinical Oncologic Dispensary (Minsk, Belarus). Project: "Thyroid National Tissue Bank".
 
 #### Responsibility:
-- Participation in the development and creation of the electronic database "National Thyroid Tissue Bank".
-- Testing and maintaining the pathological part of the database, selection of archival tissue.
+- Participation in the development and creation of the electronic database "National Thyroid Tissue Bank";
+- Testing and maintaining the pathological part of the database, selection of archival tissue;
 - Video capture and digitization of video images for various nosoologies of thyroid pathology.
 
 Project: "Thyroid telepathology and telemedicine".
@@ -121,7 +120,7 @@ Project: "Thyroid telepathology and telemedicine".
 
 ### 2022
 
-1. "JavaScript/Front-end 2022Q3" (RS School) in training
+1. "JavaScript/Front-end 2022Q3" (RS School).
 2. "HTML, CSS, and Javascript for Web Developers" (Coursera Johns Hopkins university online course).
 
 ### 2021
@@ -146,7 +145,7 @@ Qualification: certificate.
 ### 1991 – 1997
 
 Minsk State Medical Institute (Minsk, Belarus).
-Qualification : Higher education diploma/
+Qualification : Higher education diploma.
 
 ### 1987 September - 1988 May
 
@@ -155,5 +154,5 @@ Qualification: Electrician (locksmith) on duty and on repair of equipment, 4 gra
 
 ## Languages
 
-* Russian (native)
-* English (intermediate)
+* Russian (native);
+* English (intermediate).
