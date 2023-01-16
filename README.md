@@ -1,1 +1,1 @@
-https://GITHUB-USERNAME.github.io/CV/
+https://N-bin-Andr.github.io/CV/
